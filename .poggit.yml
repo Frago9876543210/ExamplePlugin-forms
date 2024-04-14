@@ -5,5 +5,5 @@ projects:
   ExamplePlugin:
     path: ""
     libs:
-      - src: Frago9876543210/forms/libFormAPI
+      - src: Frago9876543210/forms/libforms
 ...
